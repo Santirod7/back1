@@ -1,0 +1,19 @@
+{
+  "name": "primerback",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "back",
+    "servidor",
+    "base de datos"
+  ],
+  "author": "Santiago Rodriguez",
+  "license": "ISC",
+  "description": "Este es mi primer back",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
